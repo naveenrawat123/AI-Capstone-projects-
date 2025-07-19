@@ -1,0 +1,2 @@
+yolo_model_path: detection/model/yolov5s.pt
+confidence_threshold: 0.25

@@ -1,0 +1,10 @@
+openai
+gtts
+torch
+torchaudio
+yolov5
+whisper
+opencv-python
+fastapi
+uvicorn
+pydub
